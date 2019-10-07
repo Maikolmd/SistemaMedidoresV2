@@ -1,0 +1,4 @@
+c:\users\maikol\documents\visual studio 2015\Projects\SistemaMedidorV2\SistemaMedidorV2\bin\Debug\SistemaMedidorV2.exe.config
+c:\users\maikol\documents\visual studio 2015\Projects\SistemaMedidorV2\SistemaMedidorV2\obj\Debug\SistemaMedidorV2.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\SistemaMedidorV2\SistemaMedidorV2\bin\Debug\SistemaMedidorV2.exe.config
+G:\INACAP2019\Programacion Avanzada\SistemaMedidorV2\SistemaMedidorV2\obj\Debug\SistemaMedidorV2.csprojResolveAssemblyReference.cache
